@@ -1,5 +1,3 @@
-https://raw.githubusercontent.com/mikethai314/Mym3u/e19924366830e1c2242b95fed9cdb522659d99bd/iptv-org-Master-us.m3u
-
 #EXTINF:-1,BERITA SATU http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8
 #EXTINF:-1,RRI NET http://36.89.47.217:11935/rrinet/live/index.m3u8
@@ -70,7 +68,7 @@ https://tve-live-lln.warnermediacdn.com/hls/live/2023185/aswest/noslate/VIDEO_1_
 #EXTINF:-1 tvg-id="AdultSwim.us" tvg-name="Adult Swim" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/ixywxhs.jpg" group-title="ENTERTAINMENT",Adult Swim (West) (432p) [Geo-blocked] [Not 24/7]
 https://tve-live-lln.warnermediacdn.com/hls/live/2023185/aswest/noslate/VIDEO_3_1928000.m3u8
 
-#EXTINF:-1 tvg-id="AXN.us" tvg-name="AXN Latinoamérica" tvg-country="LATAM" tvg-language="English;Spanish" tvg-logo="https://www.img09.xyz/assets/img/ch_logo/hd-axn.png" group-title="ENTERTAINMENT",AXN Latinoamérica (576p)
+#EXTINF:-1 tvg-id="AXN.us" tvg-name="AXN LatinoamÃ©rica" tvg-country="LATAM" tvg-language="English;Spanish" tvg-logo="https://www.img09.xyz/assets/img/ch_logo/hd-axn.png" group-title="ENTERTAINMENT",AXN LatinoamÃ©rica (576p)
 http://209.91.213.10:8088/play/a011
 
 #EXTINF:-1 tvg-id="Channel5.us" tvg-name="Channel 5 (Adult Swim 24/7 Stream)" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/sCRPkPk.jpg" group-title="ENTERTAINMENT",Channel 5 (Adult Swim 24/7 Stream) (1080p) [Geo-blocked]
