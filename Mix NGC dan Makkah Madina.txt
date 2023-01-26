@@ -3,10 +3,6 @@ http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist
 #EXTINF:-1,RRI NET http://36.89.47.217:11935/rrinet/live/index.m3u8
 http://36.89.47.217:11935/rrinet/live/index.m3u8
 
-#EXTINF:-1,DISCOVERY
-http://80.80.160.168/live/8/2500000/live.m3u8
-
-
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/mekkah.png" group-title="Religi",Al Quran Al Kareem
 https://cllive.itworkscdn.net/ksaquranlive/token=nva=1626667651~dirs=1~hash=0ebf1903916f9c911a7a3/ksaquran.smil/ksaquran_chunks.m3u8
 
@@ -26,13 +22,6 @@ https://liveanevia.mncnow.id/live/eds/MNCMuslim/sa_dash_vmx/MNCMuslim.mpd
 #EXTINF:-1  tvg-id="ksa.alqurantv" tvg-logo="http://kamiselaluada.com/img/mekkah.png" group-title="International Channel",Al Quran Al Kareem 3
 http://210.210.155.35:80/session/f495c064-2ef3-11eb-901e-b82a72d63267/qwr9ew/s/s28/01.m3u8
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/madinah.png" group-title="International Channel",AL Sunnah Nabawi 3
-
-#EXTINF:-1 group-title="MOVIES" tvg-logo="http://iptv.lancartech.co.id:8080/images/20590cac6bdbb1d87c1d1587da998b23.png" ,HBO AXC-myid
-http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/50
-#EXTINF:-1 group-title="MOVIES" tvg-logo="http://iptv.lancartech.co.id:8080/images/7ac60ed5d6e929c81d0885b615c5fd60.png" ,HBO Family AXC-myid
-http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/53
-#EXTINF:-1 group-title="MOVIES" tvg-logo="http://iptv.lancartech.co.id:8080/images/59c79fdb9059ea5288761dc1878f0298.png" ,HBO Signature AXC-myid
-http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/52
 
 #EXTINF:-1 group-title="MOVIES" ,Thrill
 http://185.180.221.194:8278/streams/d/Thrill/playlist.m3u8
@@ -55,49 +44,9 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://storage.googleapis.com/pastiumroh/images/1/XSOMnYNboBxAsfBVvgynT783VsxAr18NyimcWKpU.png" group-title="News",CNN Indonesia 1
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
 
-#EXTINF:-1 tvg-id="AdultSwim.us" tvg-name="Adult Swim" tvg-country="US;CA" tvg-language="English" tvg-logo="https://i.imgur.com/ixywxhs.jpg" group-title="ENTERTAINMENT",Adult Swim (360p)
-http://31.220.41.88:8081/live/us-cartoon.stream/playlist.m3u8?token=null
-#EXTINF:-1 tvg-id="AdultSwim.us" tvg-name="Adult Swim" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/ixywxhs.jpg" group-title="ENTERTAINMENT",Adult Swim (1080p) [Not 24/7]
-https://adultswimtv.warnermediacdn.com/hls/live/2007031/livestream/master.m3u8
-#EXTINF:-1 tvg-id="AdultSwim.us" tvg-name="Adult Swim" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/ixywxhs.jpg" group-title="ENTERTAINMENT",Adult Swim (East) (720p) [Geo-blocked] [Not 24/7]
-https://tve-live-lln.warnermediacdn.com/hls/live/2023183/aseast/noslate/VIDEO_1_5128000.m3u8
-#EXTINF:-1 tvg-id="AdultSwim.us" tvg-name="Adult Swim" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/ixywxhs.jpg" group-title="ENTERTAINMENT",Adult Swim (East) (432p) [Geo-blocked] [Not 24/7]
-https://tve-live-lln.warnermediacdn.com/hls/live/2023183/aseast/noslate/VIDEO_3_1928000.m3u8
-#EXTINF:-1 tvg-id="AdultSwim.us" tvg-name="Adult Swim" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/ixywxhs.jpg" group-title="ENTERTAINMENT",Adult Swim (West) (720p) [Geo-blocked] [Not 24/7]
-https://tve-live-lln.warnermediacdn.com/hls/live/2023185/aswest/noslate/VIDEO_1_5128000.m3u8
-#EXTINF:-1 tvg-id="AdultSwim.us" tvg-name="Adult Swim" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/ixywxhs.jpg" group-title="ENTERTAINMENT",Adult Swim (West) (432p) [Geo-blocked] [Not 24/7]
-https://tve-live-lln.warnermediacdn.com/hls/live/2023185/aswest/noslate/VIDEO_3_1928000.m3u8
-
-#EXTINF:-1 tvg-id="AXN.us" tvg-name="AXN Latinoamérica" tvg-country="LATAM" tvg-language="English;Spanish" tvg-logo="https://www.img09.xyz/assets/img/ch_logo/hd-axn.png" group-title="ENTERTAINMENT",AXN Latinoamérica (576p)
-http://209.91.213.10:8088/play/a011
-
 #EXTINF:-1 tvg-id="Channel5.us" tvg-name="Channel 5 (Adult Swim 24/7 Stream)" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/sCRPkPk.jpg" group-title="ENTERTAINMENT",Channel 5 (Adult Swim 24/7 Stream) (1080p) [Geo-blocked]
 https://adultswim-vodlive.cdn.turner.com/live/channel-5/stream.m3u8
 
-#EXTINF:-1 tvg-id="PeopleareAwesome.us" tvg-name="People are Awesome" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/msHBlDz.png" group-title="ENTERTAINMENT",People are Awesome
-https://a357e37df8ec46719fdeffa29a3e8e40.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex-intl_PeopleAreAwesome/8fe64d6c-210c-42ac-8b42-8006b8721cf4/3.m3u8
-#EXTINF:-1 tvg-id="PeopleareAwesome.us" tvg-name="People are Awesome" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/msHBlDz.png" group-title="ENTERTAINMENT",People are Awesome (1080p)
-https://jukin-peopleareawesome-1.plex.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="PeopleareAwesome.us" tvg-name="People are Awesome" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/msHBlDz.png" group-title="ENTERTAINMENT",People are Awesome (720p)
-https://jukin-peopleareawesome-1.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="PeopleareAwesome.us" tvg-name="People are Awesome" tvg-country="CA" tvg-language="English" tvg-logo="https://i.imgur.com/msHBlDz.png" group-title="ENTERTAINMENT",People are Awesome (720p)
-https://jukin-peopleareawesome-2-ca.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="PeopleareAwesome.us" tvg-name="People are Awesome" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/msHBlDz.png" group-title="ENTERTAINMENT",People are Awesome (720p)
-https://jukin-peopleareawesome-2-es.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="PeopleareAwesome.us" tvg-name="People are Awesome" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/msHBlDz.png" group-title="ENTERTAINMENT",People are Awesome (720p)
-https://jukin-peopleareawesome-2-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="PeopleareAwesome.us" tvg-name="People are Awesome" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/msHBlDz.png" group-title="ENTERTAINMENT",People are Awesome (720p)
-https://jukin-peopleareawesome-2-it.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="PeopleareAwesomeAustralia.us" tvg-name="People are Awesome (Australia)" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/msHBlDz.png" group-title="ENTERTAINMENT",People are Awesome (Australia) (720p)
-https://jukin-peopleareawesome-2-au.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="PeopleareAwesomeIndia.us" tvg-name="People are Awesome (India)" tvg-country="US" tvg-language="" tvg-logo="https://i.imgur.com/msHBlDz.png" group-title="ENTERTAINMENT",People are Awesome (India) (720p)
-https://jukin-peopleareawesome-2-in.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="PeopleareAwesomeMexico.us" tvg-name="People are Awesome (Mexico)" tvg-country="US" tvg-language="" tvg-logo="https://i.imgur.com/msHBlDz.png" group-title="ENTERTAINMENT",People are Awesome (Mexico) (720p)
-https://jukin-peopleareawesome-2-mx.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="PeopleareAwesomeNetherlands.us" tvg-name="People are Awesome (Netherlands)" tvg-country="US" tvg-language="" tvg-logo="https://i.imgur.com/msHBlDz.png" group-title="ENTERTAINMENT",People are Awesome (Netherlands) (720p)
-https://jukin-peopleareawesome-2-nl.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="PeopleareAwesomeSweden.us" tvg-name="People are Awesome (Sweden)" tvg-country="US" tvg-language="" tvg-logo="https://i.imgur.com/msHBlDz.png" group-title="ENTERTAINMENT",People are Awesome (Sweden) (720p)
-https://jukin-peopleareawesome-2-se.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="PeopleTV.us" tvg-name="People TV" tvg-country="US" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/59c2c3ae40e64939daad8b76/colorLogoPNG.png" group-title="ENTERTAINMENT",People TV (720p)
 http://plutotv.vo.llnwd.net/m/hlslive/peopletv.m3u8?chname=peopletv&pub=0
 #EXTINF:-1 tvg-id="PeopleTV.us" tvg-name="People TV" tvg-country="US" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/59c2c3ae40e64939daad8b76/colorLogoPNG.png" group-title="ENTERTAINMENT",People TV (1080p)
@@ -126,10 +75,6 @@ https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_sunnah/hls1/saudi_
 #EXTINF:-1 tvg-id="AlSunnahAlNabawiyahTV.sa" tvg-name="Al Sunnah Al Nabawiyah TV" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/84nqj99.png" group-title="ARAB",Al Sunnah Al Nabawiyah TV (Medina) (1080p)
 https://iptv--iptv.repl.co/Arabic/Sunnah_TV/
 
-#EXTINF:-1 tvg-id="NationalGeographic.us" tvg-name="National Geographic" tvg-country="US" tvg-language="English" tvg-logo="https://1000logos.net/wp-content/uploads/2017/04/Color-National-Geographic-Logo-500x250.jpg" group-title="KNOWLEDGE",National Geographic (720p)
-https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="NationalGeographicSpain.us" tvg-name="National Geographic (Spain)" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://1000logos.net/wp-content/uploads/2017/04/Color-National-Geographic-Logo-500x250.jpg" group-title="KNOWLEDGE",National Geographic (Spain)
-http://5.255.90.184:2001/play/a04i
 #EXTINF:-1 tvg-id="NationalGeographicAbuDhabi.us" tvg-name="National Geographic Abu Dhabi" tvg-country="US" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Nat_geo_channel_abu_dhabi.png/220px-Nat_geo_channel_abu_dhabi.png" group-title="KNOWLEDGE",National Geographic Abu Dhabi (1080p)
 http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
 
